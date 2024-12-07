@@ -67,7 +67,7 @@
 | T4     | Editar informações de perfil                      | 1. Acessar configurações de perfil. 2. Alterar informações. 3. Salvar. |
 | T5     | Visualizar os detalhes de um livro                | 1. Localizar o livro. 2. Clicar em "Ver Detalhes". 3. Ler as informações. |
 | T6     | Propor uma troca de livro                         | 1. Escolher um livro disponível. 2. Enviar proposta de troca. |
-| T7     | Avaliar um livro adquirido                        | 1. Localizar o histórico. 2. Clicar em "Avaliar". 3. Preencher a avaliação. |
+| T7     | Remover um livro do acervo                       | 1. Localizar o acervo. 2. Clicar em "Remover". 3. Verificar se o livro foi removido. |
 | T8     | Finalizar sessão (logout)                         | 1. Clicar no menu de usuário. 2. Selecionar "Sair". |
 
 ---
