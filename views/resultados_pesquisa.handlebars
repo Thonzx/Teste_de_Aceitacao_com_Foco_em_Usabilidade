@@ -1,0 +1,25 @@
+<h1>Resultados para "{{termo}}"</h1>
+
+<!-- Container principal -->
+<div class="resultados-container">
+  {{#if livros.length}}
+    <ul class="book-list">
+      {{#each livros}}
+        <li class="book-item">
+          <div class="book-image">
+            <img src="{{imagem}}" alt="{{titulo}}" />
+          </div>
+          <div class="book-details">
+            <h3>{{titulo}}</h3>
+            <p><strong>Autor:</strong> {{autor}}</p>
+            <p><strong>Categoria:</strong> {{categoria}}</p>
+            <p><strong>Preço:</strong> R$ {{preco}}</p>
+            <a href="/livro/{{id}}" class="btn-detalhes">Ver detalhes</a>
+          </div>
+        </li>
+      {{/each}}
+    </ul>
+  {{else}}
+    <p class="no-results">Nenhum livro encontrado para "{{termo}}".</p>
+  {{/if}}
+</div>
