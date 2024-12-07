@@ -1,4 +1,4 @@
-**Termo de Consentimento Livre e Esclarecido (TCLE)**   
+## **Termo de Consentimento Livre e Esclarecido (TCLE)**   
 **Projeto:** Teste de Usabilidade para o Sistema **Book Store**  
 
 **Responsável:** ________________________________  
