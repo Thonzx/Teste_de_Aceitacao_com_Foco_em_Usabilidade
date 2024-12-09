@@ -54,8 +54,3 @@ Siga este guia para acessar rapidamente os arquivos:
 3. **Para feedback dos usuários:** Vá até `Results`.
 4. **Se busca embasamento teórico:** Confira os arquivos em `References`.
 
----
-
-Agradecemos por acessar este repositório! Se tiver dúvidas ou sugestões, sinta-se à vontade para contribuir ou entrar em contato!
-
----
