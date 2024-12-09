@@ -21,6 +21,7 @@ Pasta dedicada aos arquivos de configuração do sistema. Contém informações 
 
 ### **2. Docs/**
 Pasta com toda a documentação gerada durante o projeto. Subpastas principais:
+- **Pilot_Teste:** Contém o relatorio de teste piloto, as métricas, observações gerais e melhorias realizadas.
 - **Planning:** Contém o plano de teste, roteiros e o Termo de Consentimento Livre e Esclarecido (TCLE).  
 - **Metrics:** Tabelas e relatórios com as métricas coletadas durante os testes.  
 - **Results:** Resultados consolidados de formulários e feedbacks pós-testes, além de gráficos relacionados.  
