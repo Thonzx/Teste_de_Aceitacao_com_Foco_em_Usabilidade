@@ -46,6 +46,18 @@ Os documentos e links disponíveis incluem:
 
 ---
 
+### **5. Pilot_Test**
+
+Nesta pasta, você encontrará toda a documentação e informações relacionadas ao teste piloto conduzido para validar o planejamento e execução dos testes de usabilidade. 
+
+Os arquivos disponíveis incluem:
+- **Relatório do Teste Piloto:** Documento detalhado com objetivos, participantes, ambiente, procedimentos, resultados e ajustes propostos para o teste principal.
+- **Métricas do Teste Piloto:** Tabelas e dados coletados, incluindo tempo gasto, número de erros, confusões e solicitações de ajuda.
+- **Observações Gerais:** Notas sobre problemas identificados e insights obtidos durante o teste piloto.
+- **Ajustes Planejados:** Propostas de melhoria com base nos resultados do teste piloto.
+
+---
+
 ## **Como Navegar na Pasta `Docs`**
 Cada subpasta foi organizada para facilitar o acesso às informações.  
 Siga este guia para acessar rapidamente os arquivos:
