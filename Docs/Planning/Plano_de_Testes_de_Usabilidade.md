@@ -82,11 +82,8 @@
 
 ---
 
-### **8. Questionários e Formulários**
-1. **Pré-Teste:**  
-   - Grau de familiaridade com sistemas web (escala de 1 a 5).  
-   - Experiência com compra e venda de livros online.  
-2. **Pós-Teste:**  
+### **8. Questionários e Formulários**.  
+1. **Pós-Teste:**  
    - Avaliação de satisfação com o sistema (escala de 1 a 5).  
    - Comentários sobre aspectos positivos e negativos.  
    - Sugestões de melhorias.  
