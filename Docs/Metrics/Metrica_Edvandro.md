@@ -6,7 +6,7 @@ As métricas utilizadas neste teste de usabilidade foram definidas para avaliar 
 
 ---
 
-### **Tabela em Markdown**
+### **Tabela**
 
 | **Participante (Edvandro)** | **Tarefa (ID)**  | **Tempo Gasto (s)** | **Número de Erros** | **Número de Confusões** | **Solicitações de Ajuda** | **Comentários/Observações**                                                                 |
 |-----------------------------|------------------|---------------------|---------------------|-------------------------|--------------------------|--------------------------------------------------------------------------------------------|
