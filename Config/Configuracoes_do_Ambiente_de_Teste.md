@@ -100,7 +100,7 @@ O facilitador utilizará:
 ## **6. Pré-Teste: Verificação**
 
 ### **6.1. Checklist**
-- O sistema está acessível no endereço correto (`http://localhost:3000` ou servidor online)? ✅  
+- O sistema está acessível no endereço correto http://localhost:3000? ✅  
 - O login funciona com as credenciais fornecidas? ✅  
 - A barra de busca retorna resultados esperados? ✅  
 - Os formulários (cadastro de usuário, adicionar livro) estão funcionando? ✅  
