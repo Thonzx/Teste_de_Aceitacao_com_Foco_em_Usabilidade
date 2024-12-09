@@ -1,7 +1,3 @@
-### **README.md - Pasta `Src`**
-
----
-
 # **Código-Fonte do Sistema Book Store**
 
 Esta pasta contém todo o código-fonte e os arquivos relacionados ao sistema **Book Store**, incluindo o banco de dados e os arquivos do servidor. Certifique-se de seguir as instruções abaixo para configurar corretamente o ambiente de desenvolvimento e execução.
