@@ -1,4 +1,4 @@
-# **Gravação de Tela - Edvandro Rodrigues Pereira**
+# **Gravação de Tela - Felipe William da Silva**
 
 Este arquivo contém o link para a gravação de tela realizada durante o teste de usabilidade do sistema **Book Store** para o participante **Edvandro Rodrigues Pereira**. Todas as tarefas estão incluídas em um único vídeo.
 
@@ -6,7 +6,7 @@ Este arquivo contém o link para a gravação de tela realizada durante o teste 
 
 ## **Gravação Disponível**
 
-- [Assista o vídeo aqui](https://drive.google.com/file/d/1tV_RqIYbuvLGC2OOj-9hCi4tXBGYov5W/view?usp=drive_link)
+- [Assista o vídeo aqui](https://drive.google.com/file/d/1F5NuOVHoytcgOMjh_6fgViXfWJ9dHl6f/view?usp=drive_link)
 
 ---
 
