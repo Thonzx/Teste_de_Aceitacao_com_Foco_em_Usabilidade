@@ -1,7 +1,7 @@
 ## **Plano de Teste de Usabilidade**
 **Produto:** Sistema Book Store  
-**Data de Criação:** 12/11/2024  
-**Localização:** Laboratório de Informática / Sala Privada  
+**Data de Criação:** 20/11/2024  
+**Localização:** Casa do Participante / Sala Privada  
 **Formato do Teste:** Presencial, moderado  
 **Facilitador:** Wellython Salmo de Souza Sá  
 
