@@ -1,4 +1,4 @@
-# **Gravação da Câmera de Documento - Edvandro Rodrigues Pereira**
+# **Gravação da Câmera de Documento - Felipe William da Silva**
 
 Este arquivo contém o link para a gravação feita pela câmera de documento durante o teste de usabilidade do sistema **Book Store** para o participante **Edvandro Rodrigues Pereira**. Todas as tarefas estão incluídas em um único vídeo.
 
@@ -6,7 +6,7 @@ Este arquivo contém o link para a gravação feita pela câmera de documento du
 
 ## **Gravação Disponível**
 
-- [Assista o vídeo aqui](https://drive.google.com/file/d/1zbsEEDQXj7TcTzhWeQ-Buemcu2f61r0k/view?usp=drive_link)
+- [Assista o vídeo aqui](https://drive.google.com/file/d/1rSpYXdUiZT84PSxSWq3XHJvqC1L7LxIe/view?usp=drive_link)
 
 ---
 
