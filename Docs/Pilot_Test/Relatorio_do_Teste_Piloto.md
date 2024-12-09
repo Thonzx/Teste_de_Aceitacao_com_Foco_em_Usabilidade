@@ -8,7 +8,7 @@ O objetivo do teste piloto foi validar a redação e o entendimento das tarefas 
 ---
 
 ### **2. Participantes**
-- **Participante:** 1 Felipe Willian da Silva.  
+- **Participante:** 1 Felipe William Galdino da Silva.  
 - **Perfil:** Usuário não registrado no sistema.  
 - **Familiaridade com sistemas web:** Alta.  
 
