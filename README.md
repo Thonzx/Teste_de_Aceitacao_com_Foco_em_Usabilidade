@@ -67,6 +67,9 @@ Este repositório está aberto para contribuições! Caso identifique melhorias 
 Se você tiver dúvidas ou sugestões, entre em contato com os responsáveis pelo projeto.  
 wellython.souza542@gmail.com  
 uchoa.breno2016@gmail.com  
+bm3037987@gmail.com  
+juliafariassouza1212@gmail.com  
+
 
 
 Obrigado por acessar o repositório!
